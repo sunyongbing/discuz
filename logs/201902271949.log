@@ -1,0 +1,70 @@
+2019-02-27 19:49:48,229 - BasePage - INFO - find element
+2019-02-27 19:49:48,313 - BasePage - INFO - admin
+2019-02-27 19:49:48,338 - BasePage - INFO - find element
+2019-02-27 19:49:48,382 - BasePage - INFO - admin
+2019-02-27 19:49:48,408 - BasePage - INFO - find element
+2019-02-27 19:49:48,467 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 19:49:50,525 - BasePage - INFO - find element
+2019-02-27 19:49:50,841 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:49:52,892 - BasePage - INFO - find element
+2019-02-27 19:49:52,993 - BasePage - INFO - this element 管理中心 was clicked.
+2019-02-27 19:49:54,053 - BasePage - INFO - find element
+2019-02-27 19:49:54,108 - BasePage - INFO - admin
+2019-02-27 19:49:54,139 - BasePage - INFO - find element
+2019-02-27 19:52:11,040 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:11,100 - BasePage - INFO - find element
+2019-02-27 19:52:11,383 - BasePage - INFO - this element 论坛 was clicked.
+2019-02-27 19:52:11,436 - BasePage - INFO - find element
+2019-02-27 19:52:11,575 - BasePage - INFO - this element 添加新版块 was clicked.
+2019-02-27 19:52:11,603 - BasePage - INFO - find element
+2019-02-27 19:52:11,817 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:11,850 - BasePage - INFO - find element
+2019-02-27 19:52:12,235 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:12,263 - BasePage - INFO - find element
+2019-02-27 19:52:12,550 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:16,991 - BasePage - INFO - find element
+2019-02-27 19:52:25,545 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:30,594 - BasePage - INFO - find element
+2019-02-27 19:52:30,699 - BasePage - INFO - 123456
+2019-02-27 19:52:30,731 - BasePage - INFO - find element
+2019-02-27 19:52:30,788 - BasePage - INFO - 123456
+2019-02-27 19:52:30,817 - BasePage - INFO - find element
+2019-02-27 19:52:42,084 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:44,115 - BasePage - INFO - find element
+2019-02-27 19:52:55,287 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 19:52:55,313 - BasePage - INFO - find element
+2019-02-27 19:52:55,370 - BasePage - INFO - title
+2019-02-27 19:53:05,534 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026421F9E668>页面未找到('css selector', 'p')元素
+2019-02-27 19:53:05,535 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 19:53:05,575 - BasePage - INFO - find element
+2019-02-27 19:53:05,687 - BasePage - INFO - this element 发表帖子 was clicked.
+2019-02-27 19:53:20,801 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026421F9E668>页面未找到('link text', '回复')元素
+2019-02-27 19:53:20,802 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 19:53:31,875 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026421F9E668>页面未找到('id', 'postmessage')元素
+2019-02-27 19:53:31,875 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 19:53:42,932 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026421F9E668>页面未找到('css selector', '.o.pns button span')元素
+2019-02-27 19:53:42,932 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

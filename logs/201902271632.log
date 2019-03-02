@@ -1,0 +1,8 @@
+2019-02-27 16:32:07,739 - BasePage - INFO - find element
+2019-02-27 16:32:07,821 - BasePage - INFO - admin
+2019-02-27 16:32:07,852 - BasePage - INFO - find element
+2019-02-27 16:32:07,901 - BasePage - INFO - admin
+2019-02-27 16:32:07,931 - BasePage - INFO - find element
+2019-02-27 16:32:07,999 - BasePage - INFO - this element µÇÂ¼ was clicked.
+2019-02-27 16:32:21,101 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000020A6EDBF198>Ò³ÃæÎ´ÕÒµ½('css selector', '.um p .pipe')ÔªËØ
+2019-02-27 16:32:21,101 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

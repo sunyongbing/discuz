@@ -1,0 +1,31 @@
+2019-02-28 09:34:24,525 - BasePage - INFO - find element
+2019-02-28 09:34:24,607 - BasePage - INFO - admin
+2019-02-28 09:34:24,633 - BasePage - INFO - find element
+2019-02-28 09:34:24,677 - BasePage - INFO - admin
+2019-02-28 09:34:24,701 - BasePage - INFO - find element
+2019-02-28 09:34:24,764 - BasePage - INFO - this element 登录 was clicked.
+2019-02-28 09:34:26,784 - BasePage - INFO - find element
+2019-02-28 09:34:27,142 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:34:29,160 - BasePage - INFO - find element
+2019-02-28 09:34:29,725 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:34:29,776 - BasePage - INFO - find element
+2019-02-28 09:34:30,164 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:34:30,189 - BasePage - INFO - find element
+2019-02-28 09:34:30,262 - BasePage - INFO - 股票
+2019-02-28 09:34:41,358 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000025AC20761D0>页面未找到('xpath', 'polloption[0]')元素
+2019-02-28 09:34:41,358 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:34:52,456 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000025AC20761D0>页面未找到('xpath', 'polloption[1]')元素
+2019-02-28 09:34:52,456 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:34:52,471 - BasePage - INFO - find element
+2019-02-28 09:34:52,591 - BasePage - INFO - this element 发起投票 was clicked.
+2019-02-28 09:34:55,697 - BasePage - INFO - find element
+2019-02-28 09:34:55,792 - BasePage - INFO - this element | was clicked.

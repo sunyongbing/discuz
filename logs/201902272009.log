@@ -1,0 +1,10 @@
+2019-02-27 20:10:16,586 - BasePage - INFO - find element
+2019-02-27 20:10:16,673 - BasePage - INFO - admin
+2019-02-27 20:10:16,703 - BasePage - INFO - find element
+2019-02-27 20:10:16,756 - BasePage - INFO - admin
+2019-02-27 20:10:16,787 - BasePage - INFO - find element
+2019-02-27 20:10:16,854 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 20:10:33,660 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000268A734D6A0>页面未找到('id', 'newspecial')元素
+2019-02-27 20:10:33,661 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 20:10:44,694 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000268A734D6A0>页面未找到('css selector', '.z input')元素
+2019-02-27 20:10:44,695 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'

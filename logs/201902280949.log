@@ -1,0 +1,31 @@
+2019-02-28 09:49:11,831 - BasePage - INFO - find element
+2019-02-28 09:49:11,911 - BasePage - INFO - admin
+2019-02-28 09:49:11,935 - BasePage - INFO - find element
+2019-02-28 09:49:11,980 - BasePage - INFO - admin
+2019-02-28 09:49:12,005 - BasePage - INFO - find element
+2019-02-28 09:49:12,061 - BasePage - INFO - this element 登录 was clicked.
+2019-02-28 09:49:14,119 - BasePage - INFO - find element
+2019-02-28 09:49:14,456 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:49:16,501 - BasePage - INFO - find element
+2019-02-28 09:49:16,903 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:49:16,988 - BasePage - INFO - find element
+2019-02-28 09:49:17,432 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:49:17,482 - BasePage - INFO - find element
+2019-02-28 09:49:17,546 - BasePage - INFO - 股票
+2019-02-28 09:49:17,575 - BasePage - INFO - find element
+2019-02-28 09:49:17,626 - BasePage - INFO - 涨
+2019-02-28 09:49:17,664 - BasePage - INFO - find element
+2019-02-28 09:49:17,725 - BasePage - INFO - 跌
+2019-02-28 09:49:17,756 - BasePage - INFO - find element
+2019-02-28 09:49:17,860 - BasePage - INFO - this element 发起投票 was clicked.
+2019-02-28 09:49:20,901 - BasePage - INFO - find element
+2019-02-28 09:49:20,992 - BasePage - INFO - this element | was clicked.

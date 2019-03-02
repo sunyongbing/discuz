@@ -1,0 +1,19 @@
+2019-02-27 16:57:19,531 - BasePage - INFO - find element
+2019-02-27 16:57:19,603 - BasePage - INFO - admin
+2019-02-27 16:57:19,631 - BasePage - INFO - find element
+2019-02-27 16:57:19,675 - BasePage - INFO - admin
+2019-02-27 16:57:19,700 - BasePage - INFO - find element
+2019-02-27 16:57:19,758 - BasePage - INFO - this element µÇÂ¼ was clicked.
+2019-02-27 16:57:21,786 - BasePage - INFO - find element
+2019-02-27 16:57:22,147 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 16:57:24,177 - BasePage - INFO - find element
+2019-02-27 16:57:24,256 - BasePage - INFO - this element  was clicked.
+2019-02-27 16:57:24,329 - BasePage - INFO - find element
+2019-02-27 16:57:24,581 - BasePage - INFO - this element É¾³ý was clicked.
+2019-02-27 16:57:35,728 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000023D61E5D2E8>Ò³ÃæÎ´ÕÒµ½('link text', 'È·¶¨')ÔªËØ
+2019-02-27 16:57:35,729 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 16:57:37,787 - BasePage - INFO - find element
+2019-02-27 16:57:37,842 - BasePage - INFO - this element | was clicked.

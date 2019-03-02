@@ -1,0 +1,30 @@
+2019-02-27 20:35:12,555 - BasePage - INFO - find element
+2019-02-27 20:35:12,691 - BasePage - INFO - admin
+2019-02-27 20:35:12,733 - BasePage - INFO - find element
+2019-02-27 20:35:12,802 - BasePage - INFO - admin
+2019-02-27 20:35:12,843 - BasePage - INFO - find element
+2019-02-27 20:35:12,932 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 20:35:24,219 - BasePage - INFO - find element
+2019-02-27 20:35:34,414 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 20:35:34,453 - BasePage - INFO - find element
+2019-02-27 20:35:44,649 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 20:35:44,673 - BasePage - INFO - find element
+2019-02-27 20:35:44,720 - BasePage - INFO - ww
+2019-02-27 20:35:44,760 - BasePage - INFO - find element
+2019-02-27 20:35:44,907 - BasePage - INFO - ewrstydfxdtsressdrxg
+2019-02-27 20:35:44,935 - BasePage - INFO - find element
+2019-02-27 20:35:45,043 - BasePage - INFO - this element 发表帖子 was clicked.
+2019-02-27 20:35:56,337 - BasePage - INFO - find element
+2019-02-27 20:35:56,427 - BasePage - INFO - this element 回复 was clicked.
+2019-02-27 20:35:56,570 - BasePage - INFO - find element
+2019-02-27 20:35:56,667 - BasePage - INFO - yyyyyyyyyyyyyyyyyyyyyy
+2019-02-27 20:35:56,688 - BasePage - INFO - find element
+2019-02-27 20:35:56,725 - BasePage - INFO - this element 回复 was clicked.
+2019-02-27 20:35:56,754 - BasePage - INFO - find element
+2019-02-27 20:35:56,826 - BasePage - INFO - this element | was clicked.

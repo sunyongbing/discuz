@@ -1,0 +1,12 @@
+2019-02-28 10:43:00,919 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('id', 'ls_username')元素
+2019-02-28 10:43:00,920 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:43:00,945 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('id', 'ls_password')元素
+2019-02-28 10:43:00,945 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:43:00,961 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('css selector', 'em')元素
+2019-02-28 10:43:02,609 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:43:04,637 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('css selector', '.fl_tb h2 a')元素
+2019-02-28 10:43:04,637 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:43:15,800 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('id', 'newspecial')元素
+2019-02-28 10:43:15,800 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:43:26,907 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001DC312E5048>页面未找到('css selector', '.z input')元素
+2019-02-28 10:43:26,907 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'

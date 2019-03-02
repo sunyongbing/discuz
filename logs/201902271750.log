@@ -1,0 +1,28 @@
+2019-02-27 17:50:40,288 - BasePage - INFO - find element
+2019-02-27 17:50:40,380 - BasePage - INFO - admin
+2019-02-27 17:50:40,408 - BasePage - INFO - find element
+2019-02-27 17:50:40,463 - BasePage - INFO - admin
+2019-02-27 17:50:40,493 - BasePage - INFO - find element
+2019-02-27 17:50:40,568 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 17:50:42,598 - BasePage - INFO - find element
+2019-02-27 17:50:42,937 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 17:50:44,996 - BasePage - INFO - find element
+2019-02-27 17:50:45,087 - BasePage - INFO - this element 管理中心 was clicked.
+2019-02-27 17:50:46,151 - BasePage - INFO - find element
+2019-02-27 17:50:46,199 - BasePage - INFO - admin
+2019-02-27 17:50:46,226 - BasePage - INFO - find element
+2019-02-27 17:51:07,994 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 17:51:08,025 - BasePage - INFO - find element
+2019-02-27 17:51:08,319 - BasePage - INFO - this element 论坛 was clicked.
+2019-02-27 17:51:19,467 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000192A8F0E470>页面未找到('link text', '添加新版块')元素
+2019-02-27 17:51:19,468 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 17:51:30,565 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000192A8F0E470>页面未找到('name', 'submit')元素
+2019-02-27 17:51:30,565 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 17:51:43,658 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000192A8F0E470>页面未找到('css selector', '.pipe')元素
+2019-02-27 17:51:43,658 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

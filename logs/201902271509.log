@@ -1,0 +1,22 @@
+2019-02-27 15:09:25,675 - BasePage - INFO - find element
+2019-02-27 15:09:25,824 - BasePage - INFO - admin
+2019-02-27 15:09:25,869 - BasePage - INFO - find element
+2019-02-27 15:09:25,919 - BasePage - INFO - admin
+2019-02-27 15:09:25,950 - BasePage - INFO - find element
+2019-02-27 15:09:26,016 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 15:09:28,042 - BasePage - INFO - find element
+2019-02-27 15:09:28,348 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 15:09:28,414 - BasePage - INFO - find element
+2019-02-27 15:09:28,881 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 15:09:28,913 - BasePage - INFO - find element
+2019-02-27 15:09:28,974 - BasePage - INFO - qq
+2019-02-27 15:09:40,030 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x00000238AF320048>页面未找到('tag name', 'body p')元素
+2019-02-27 15:09:40,030 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 15:09:40,054 - BasePage - INFO - find element
+2019-02-27 15:09:40,189 - BasePage - INFO - this element 发表帖子 was clicked.

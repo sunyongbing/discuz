@@ -1,0 +1,31 @@
+2019-02-28 09:48:10,350 - BasePage - INFO - find element
+2019-02-28 09:48:10,427 - BasePage - INFO - admin
+2019-02-28 09:48:10,451 - BasePage - INFO - find element
+2019-02-28 09:48:10,496 - BasePage - INFO - admin
+2019-02-28 09:48:10,520 - BasePage - INFO - find element
+2019-02-28 09:48:10,578 - BasePage - INFO - this element 登录 was clicked.
+2019-02-28 09:48:12,634 - BasePage - INFO - find element
+2019-02-28 09:48:13,010 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:48:15,073 - BasePage - INFO - find element
+2019-02-28 09:48:15,431 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:48:15,503 - BasePage - INFO - find element
+2019-02-28 09:48:15,921 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 09:48:15,953 - BasePage - INFO - find element
+2019-02-28 09:48:16,017 - BasePage - INFO - 股票
+2019-02-28 09:48:16,051 - BasePage - INFO - find element
+2019-02-28 09:48:16,097 - BasePage - INFO - 涨
+2019-02-28 09:48:27,236 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000002E6DC065128>页面未找到('xpath', '//div/p/input[2]')元素
+2019-02-28 09:48:27,236 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 09:48:27,252 - BasePage - INFO - find element
+2019-02-28 09:48:32,385 - BasePage - INFO - this element 发起投票 was clicked.
+2019-02-28 09:48:35,420 - BasePage - INFO - find element
+2019-02-28 09:48:40,503 - BasePage - INFO - this element | was clicked.

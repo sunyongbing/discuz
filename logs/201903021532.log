@@ -1,0 +1,53 @@
+2019-03-02 15:32:17,932 - BrowserEngine - INFO - Ñ¡Ôñä¯ÀÀÆ÷£ºChrome
+2019-03-02 15:32:17,933 - BrowserEngine - INFO - µØÖ·£ºhttp://127.0.0.1/forum.php
+2019-03-02 15:32:22,462 - BrowserEngine - INFO - ´ò¿ªChromeä¯ÀÀÆ÷
+2019-03-02 15:32:41,223 - BrowserEngine - INFO - ´ò¿ªÍøÖ·
+2019-03-02 15:32:42,748 - BasePage - INFO - find element
+2019-03-02 15:32:43,038 - BasePage - INFO - admin
+2019-03-02 15:32:43,077 - BasePage - INFO - find element
+2019-03-02 15:32:43,144 - BasePage - INFO - admin
+2019-03-02 15:32:43,176 - BasePage - INFO - find element
+2019-03-02 15:32:54,951 - BasePage - INFO - this element µÇÂ¼ was clicked.
+2019-03-02 15:32:57,069 - BasePage - INFO - find element
+2019-03-02 15:33:08,304 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 15:33:10,340 - BasePage - INFO - find element
+2019-03-02 15:33:21,613 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 15:33:21,674 - BasePage - INFO - find element
+2019-03-02 15:33:32,959 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 15:33:32,997 - BasePage - INFO - find element
+2019-03-02 15:33:33,081 - BasePage - INFO - ¹ÉÆ±
+2019-03-02 15:33:33,130 - BasePage - INFO - find element
+2019-03-02 15:33:33,212 - BasePage - INFO - ÕÇ
+2019-03-02 15:33:33,249 - BasePage - INFO - find element
+2019-03-02 15:33:33,306 - BasePage - INFO - µø
+2019-03-02 15:33:33,338 - BasePage - INFO - find element
+2019-03-02 15:33:33,562 - BasePage - INFO - this element ·¢ÆðÍ¶Æ± was clicked.
+2019-03-02 15:33:44,946 - BasePage - INFO - find element
+2019-03-02 15:33:45,029 - BasePage - INFO - this element  was clicked.
+2019-03-02 15:33:45,069 - BasePage - INFO - find element
+2019-03-02 15:33:56,649 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-03-02 15:33:56,688 - BasePage - INFO - find element
+2019-03-02 15:33:56,712 - BasePage - INFO - find ¹ÉÆ±
+2019-03-02 15:33:56,743 - BasePage - INFO - find element
+2019-03-02 15:33:56,769 - BasePage - INFO - find 1.  ÕÇ
+2019-03-02 15:33:56,797 - BasePage - INFO - find element
+2019-03-02 15:33:56,823 - BasePage - INFO - find 100.00% (1)
+2019-03-02 15:33:56,863 - BasePage - INFO - find element
+2019-03-02 15:33:56,891 - BasePage - INFO - find 2.  µø
+2019-03-02 15:33:56,938 - BasePage - INFO - find element
+2019-03-02 15:33:56,963 - BasePage - INFO - find 0.00% (0)
+2019-03-02 15:34:00,006 - BasePage - INFO - find element
+2019-03-02 15:34:00,127 - BasePage - INFO - this element | was clicked.
+2019-03-02 15:34:00,127 - BrowserEngine - INFO - ÍË³öä¯ÀÀÆ÷

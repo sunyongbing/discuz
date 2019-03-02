@@ -1,0 +1,23 @@
+2019-02-27 17:39:24,256 - BasePage - INFO - find element
+2019-02-27 17:39:24,334 - BasePage - INFO - admin
+2019-02-27 17:39:24,362 - BasePage - INFO - find element
+2019-02-27 17:39:24,414 - BasePage - INFO - admin
+2019-02-27 17:39:24,446 - BasePage - INFO - find element
+2019-02-27 17:39:24,525 - BasePage - INFO - this element 登录 was clicked.
+2019-02-27 17:39:26,555 - BasePage - INFO - find element
+2019-02-27 17:39:26,912 - BasePage - ERROR - Failed to click the element with Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-27 17:39:28,947 - BasePage - INFO - find element
+2019-02-27 17:39:29,038 - BasePage - INFO - this element 管理中心 was clicked.
+2019-02-27 17:39:33,243 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001E027B9E470>页面未找到('name', 'admin_password')元素
+2019-02-27 17:39:33,243 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-27 17:39:33,245 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001E027B9E470>页面未找到('link text', '论坛')元素
+2019-02-27 17:39:33,245 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 17:39:33,247 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001E027B9E470>页面未找到('link text', '添加新版块')元素
+2019-02-27 17:39:33,247 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 17:39:33,249 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001E027B9E470>页面未找到('name', 'editsubmit')元素
+2019-02-27 17:39:33,250 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-27 17:39:35,254 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x000001E027B9E470>页面未找到('css selector', '.pipe')元素
+2019-02-27 17:39:35,255 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'

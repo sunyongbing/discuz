@@ -1,0 +1,27 @@
+2019-02-28 10:30:26,950 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'ls_username')元素
+2019-02-28 10:30:26,950 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:30:26,979 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'ls_password')元素
+2019-02-28 10:30:26,979 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:30:26,995 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('css selector', 'em')元素
+2019-02-28 10:30:26,995 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:30:29,026 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('css selector', '.fl_tb h2 a')元素
+2019-02-28 10:30:29,026 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:30:42,136 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'newspecial')元素
+2019-02-28 10:30:42,136 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:30:53,192 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('link text', '发起投票')元素
+2019-02-28 10:30:53,192 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:31:04,273 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'subject')元素
+2019-02-28 10:31:04,273 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:31:15,324 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('xpath', '//div/p/input[1]')元素
+2019-02-28 10:31:15,324 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:31:26,432 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('xpath', '//div/p[2]/input[1]')元素
+2019-02-28 10:31:26,432 - BasePage - ERROR - Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-02-28 10:31:37,496 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'postsubmit')元素
+2019-02-28 10:31:37,496 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:31:51,580 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'option_1')元素
+2019-02-28 10:31:51,580 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:32:02,682 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'pollsubmit')元素
+2019-02-28 10:32:02,682 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
+2019-02-28 10:32:13,721 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('id', 'thread_subject')元素
+2019-02-28 10:32:16,752 - BasePage - ERROR - <discuz.discuz.Discuz object at 0x0000026C3219BE80>页面未找到('css selector', '.pipe')元素
+2019-02-28 10:32:16,752 - BasePage - ERROR - Failed to click the element with 'NoneType' object has no attribute 'click'
